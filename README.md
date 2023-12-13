@@ -2,7 +2,8 @@
 <html>
     <head>
     <title>Phone Repair</title>    
-    <link rel="stylesheet"href="style.css"/>
+    <link rel="stylesheet"
+        href="style.css"/>
     </head>        
     <body>
         <header>
